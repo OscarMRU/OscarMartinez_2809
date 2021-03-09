@@ -1,2 +1,2 @@
-# OyA-Centros_Computo
-Repositorio creado por Oscar Martinez Rulfo 
+# OscarMartinez_2809
+Nombre: Oscar Martinez 31501 

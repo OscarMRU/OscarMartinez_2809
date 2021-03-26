@@ -1,0 +1,32 @@
+Definición de Organización. 
+
+Una organización es un conjunto de personas que se relacionan entre si, para lograr objetivos o metas de cualquier tipo. 
+Utilizan una estructura ordenada en donde los integrantes de la organización tienen diferentes roles o responsabilidades.
+
+Organización de un centro de cómputo. 
+ 
+Se refiere a la creación de una estructura, en la cual se determinan las jerarquias, roles y actividades con el fin de 
+simplificar estas actividades y sus funciones, esto quiere decir que cada individuo de la organización tenga una tarea
+en especifico para que se pueda obtener una mayor rendimiento. 
+
+
+Ejemplo. 
+
+Un centro de computo con la siguiente jerarquía: 
+
+- Gerente General de informática
+	- Jefe de desarrollo de sistemas
+		- Analista
+		- Mesa de Control
+		- Programadores
+	- Jefe de departamento de soporte técnico
+		- Responsables de la instalación 
+		- Responsables de los servicios preventivos y correctivos
+	- Jefe del departamento de consultoría técnica 
+		- Responsable de impartir la asesoria local 
+		- Responsables de impartir la asesoría en línea
+		- Responsables de impartir capacitación. 	
+	- Jefe del departamento de servicios de rede
+		- Operadores de red 
+		- Operadores de servidor
+	

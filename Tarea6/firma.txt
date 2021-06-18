@@ -1,0 +1,17 @@
+hola.c 1 sha1
+df3d8cec690eca7690746ac65570c94d8c0d9c33 
+
+hola.c 2 sha1
+0d5c9d163a8f46dc299e06a74cdec2ce0cf2dad0 
+
+hola.c 3 sha1
+df3d8cec690eca7690746ac65570c94d8c0d9c33
+
+hola.c 4 sha256
+022f0a722af40216e3c145b2256a04436f91bb0941d9b956eee5419c95fea975
+
+hola.c 5 (con cambio)
+771e9b0c9fcc16c2455f1fe6f465a666aa21d3c9
+
+hola.c 6 (sin cambio)
+df3d8cec690eca7690746ac65570c94d8c0d9c33
